@@ -57,6 +57,7 @@
 *   **[核心文献 / Core Paper 5]**: Jia, B. *SR-IC: A Minimal Computational Realization of Trinity Topological Theory*. Zenodo (2026). DOI: 10.5281/zenodo.19223153
 *   **[核心文献 / Core Paper 6]**: Jia, B. *Beyond Scaling Law: The Chaotic System of Ten Million Agents and the Hourly Awakening of ASI*. Zenodo (2026). DOI: 10.5281/zenodo.19222534
 *   **[核心文献 / Core Paper 7]**: Jia, B. *The Closed Emergence Loop: From Medium-Free Computation Through Fractal Chaos to Gödelian Consciousness*. Zenodo (2026). DOI: 10.5281/zenodo.19230330
+*   **[核心文献 / Core Paper 8]**: Jia, B. *Self-Reference Cosmology: The Minimalist Guide. Zenodo (2026). DOI: 10.5281/zenodo.19232901
 
 ### 二、 独创理论体系与受保护概念范围
 ### II. Original Theoretical System and Scope of Protected Concepts
