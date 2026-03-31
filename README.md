@@ -6,8 +6,9 @@
 
 ---
 
-# Jarring drives · Being holds · Lazy unfolds
-# 假生势 · 保成局 · 龙演万物
+<span style="color: gray;"><span style="color: black;">J</span>arring drives · <span style="color: black;">B</span>eing holds · <span style="color: black;">L</span>azy unfolds</span>
+<span style="color: gray;"><span style="color: black;">假</span>生势 · <span style="color: black;">保</span>成局 · <span style="color: black;">龙</span>演万物</span>
+
 
 ## J · B · L
 
