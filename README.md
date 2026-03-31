@@ -7,11 +7,12 @@
 ---
 
 $$
-\color{gray} {\color{black}J}arring \space drives \cdot {\color{black}B}eing \space holds \cdot {\color{black}L}azy \space unfolds
+\begin{aligned}
+&\color{gray} \Huge \color{black}J \normalsize arring \space drives \cdot \Huge \color{black}B \normalsize eing \space holds \cdot \Huge \color{black}L \normalsize azy \space unfolds \\
+&\color{gray} \Huge \color{black}假 \normalsize 生势 \cdot \Huge \color{black}保 \normalsize 成局 \cdot \Huge \color{black}龙 \normalsize 演万物
+\end{aligned}
 $$
-$$
-\color{gray} {\color{black}假}生势 \cdot {\color{black}保}成局 \cdot {\color{black}龙}演万物
-$$
+
 
 
 ## J · B · L
