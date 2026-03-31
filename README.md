@@ -5,14 +5,9 @@
 📫 seer@139.com
 
 ---
-
-$$
-\begin{aligned}
-&\color{gray} \Huge \color{black}J \normalsize arring \space drives \cdot \Huge \color{black}B \normalsize eing \space holds \cdot \Huge \color{black}L \normalsize azy \space unfolds \\
-&\color{gray} \Huge \color{black}假 \normalsize 生势 \cdot \Huge \color{black}保 \normalsize 成局 \cdot \Huge \color{black}龙 \normalsize 演万物
-\end{aligned}
-$$
-
+### **J**$\small\color{gray}\text{arring drives}$ · **B**$\small\color{gray}\text{eing holds}$ · **L**$\small\color{gray}\text{azy unfolds}$
+### **假**$\small\color{gray}\text{生势}$ · **保**$\small\color{gray}\text{成局}$ · **龙**$\small\color{gray}\text{演万物}$
+---
 
 
 ## J · B · L
